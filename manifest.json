@@ -1,0 +1,9 @@
+{
+  "name": "链接转换助手",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "一个将神秘代码(例如磁力链接或百度云提取码)转换成完整链接的快捷工具，免去重复的手动补全",
+  "icons": { "128": "icon.png" },
+  "browser_action": {"default_icon": "icon.png","default_popup": "popup.html"},
+  "permissions": ["activeTab"]
+  }
